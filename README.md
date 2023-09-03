@@ -1,2 +1,2 @@
 # CV-Example
-Using HTML
+Using HTML, CSS
